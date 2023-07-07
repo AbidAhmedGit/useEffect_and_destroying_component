@@ -1,0 +1,2 @@
+# useEffect_and_destroying_component
+Created with CodeSandbox
